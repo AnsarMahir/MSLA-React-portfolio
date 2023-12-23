@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/techdesktop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with tech items";
 
 /**
  * Project list
@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "How to integrate loyalty points system in WooCommerce",
+    description: "I will teach you a free method to integrate loyalty points system in WooCommerce",
+    url: "https://letsknowtech.com/how-to-integrate-loyalty-points-system-in-woocommerce",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How to create child theme in wordpress",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A child theme in WordPress is a sub-theme that inherits the functionality and styling of its parent theme",
+    url: "https://letsknowtech.com/how-to-create-child-theme-in-wordpress-step-by-step-guide/",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    description: "A resume site created for First year first semester module",
+    url: "https://github.com/AnsarMahir/firstportfolio.github.co",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "WordPress: The Pros and The Cons",
+    description: "Wordpress Ups and Downs that everyone should know before ......",
+    url: "https://letsknowtech.com/wordpress-the-pros-and-the-cons/",
   },
 ];
 
